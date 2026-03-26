@@ -2,9 +2,57 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://news.crimedocket.com/</loc>
-    <lastmod>2026-03-24</lastmod>
+    <lastmod>2026-03-25</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://news.crimedocket.com/articles/15-gunshots-zero-witnesses-in-kendric-price-homicide-case.html</loc>
+    <lastmod>2026-03-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://news.crimedocket.com/articles/lake-albano-cold-case-surgical-precision-in-1955-homicide.html</loc>
+    <lastmod>2026-03-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://news.crimedocket.com/articles/nsw-parliamentary-inquiry-targets-unsolved-murders-1965-2010.html</loc>
+    <lastmod>2026-03-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://news.crimedocket.com/articles/genetic-genealogy-solves-44-year-california-cold-case.html</loc>
+    <lastmod>2026-03-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://news.crimedocket.com/articles/hair-match-confession-close-1962-carol-ann-dougherty-cold-case.html</loc>
+    <lastmod>2026-03-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://news.crimedocket.com/articles/dna-solves-1991-austin-yogurt-shop-murders-cold-case.html</loc>
+    <lastmod>2026-03-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://news.crimedocket.com/articles/nh-cold-case-unit-expands-forensics-to-clear-126-cases.html</loc>
+    <lastmod>2026-03-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://news.crimedocket.com/articles/genetic-genealogy-secures-life-sentence-in-karen-stitt-murder.html</loc>
+    <lastmod>2026-03-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://news.crimedocket.com/articles/dna-trash-pull-solves-2011-baby-angel-cold-case-in-winona.html</loc>
