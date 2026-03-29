@@ -5,8 +5,64 @@
     <link>https://news.crimedocket.com/</link>
     <description>Independent forensic-first true crime journalism. Court filings, FOIA releases, and evidence-based reporting.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Mar 2026 18:18:50 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 18:03:22 +0000</lastBuildDate>
     <atom:link href="https://news.crimedocket.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Holdback Evidence Corroborates Tip in Brian Shaffer Disappearance</title>
+      <link>https://news.crimedocket.com/articles/holdback-evidence-corroborates-tip-in-brian-shaffer-disappearance.html</link>
+      <description>A new tip aligns with holdback evidence in the 2006 Brian Shaffer disappearance. Investigators evaluate the Columbus Ohio cold case lead for verification.</description>
+      <pubDate>Fri, 27 Mar 2026 10:38:02 +0000</pubDate>
+      <guid isPermaLink="true">https://news.crimedocket.com/articles/holdback-evidence-corroborates-tip-in-brian-shaffer-disappearance.html</guid>
+      <category>CASE ANALYSIS</category>
+    </item>
+    <item>
+      <title>Ballistics Link Firearm to Tommy Ballard Bardstown Homicide</title>
+      <link>https://news.crimedocket.com/articles/ballistics-link-firearm-to-tommy-ballard-bardstown-homicide.html</link>
+      <description>Explore the forensic evidence in the Tommy Ballard homicide. FBI investigators link ballistics and a $50K reward to the unsolved Bardstown, Kentucky murder.</description>
+      <pubDate>Thu, 26 Mar 2026 19:25:18 +0000</pubDate>
+      <guid isPermaLink="true">https://news.crimedocket.com/articles/ballistics-link-firearm-to-tommy-ballard-bardstown-homicide.html</guid>
+      <category>NEWS BRIEF</category>
+    </item>
+    <item>
+      <title>Evidence Review: Toledo Unsolved Homicide of Alfonzo Carpenter</title>
+      <link>https://news.crimedocket.com/articles/evidence-review-toledo-unsolved-homicide-of-alfonzo-carpenter.html</link>
+      <description>Forensic analysis of the unsolved homicide of Alfonzo Carpenter Jr. in West Toledo. Law enforcement seeks new ballistic or witness evidence to break the case.</description>
+      <pubDate>Thu, 26 Mar 2026 19:20:20 +0000</pubDate>
+      <guid isPermaLink="true">https://news.crimedocket.com/articles/evidence-review-toledo-unsolved-homicide-of-alfonzo-carpenter.html</guid>
+      <category>NEWS BRIEF</category>
+    </item>
+    <item>
+      <title>Archival VHS Footage Solves 1990 William Arnold Newton Cold Case</title>
+      <link>https://news.crimedocket.com/articles/archival-vhs-footage-solves-1990-william-arnold-newton-cold-case.html</link>
+      <description>Forensic analysis of archival VHS tape footage has solved the 1990 West Hollywood cold case of William Arnold Newton, resulting in a prison confession.</description>
+      <pubDate>Thu, 26 Mar 2026 19:15:27 +0000</pubDate>
+      <guid isPermaLink="true">https://news.crimedocket.com/articles/archival-vhs-footage-solves-1990-william-arnold-newton-cold-case.html</guid>
+      <category>CASE ANALYSIS</category>
+    </item>
+    <item>
+      <title>Forensic Review: 1993 Cleveland County Unsolved Rest Stop Murder</title>
+      <link>https://news.crimedocket.com/articles/forensic-review-1993-cleveland-county-unsolved-rest-stop-murder.html</link>
+      <description>Analyze the forensic evidence in the 1993 Cleveland County unsolved murder of Charles Porter at an I-85 rest stop. Police actively seek leads in this cold case.</description>
+      <pubDate>Thu, 26 Mar 2026 11:38:34 +0000</pubDate>
+      <guid isPermaLink="true">https://news.crimedocket.com/articles/forensic-review-1993-cleveland-county-unsolved-rest-stop-murder.html</guid>
+      <category>CASE ANALYSIS</category>
+    </item>
+    <item>
+      <title>Forensics Break 1987 Roseville Unsolved Homicide Case</title>
+      <link>https://news.crimedocket.com/articles/forensics-break-1987-roseville-unsolved-homicide-case.html</link>
+      <description>Forensics lead Roseville Police to name Robert Osborne as a person of interest in the 1987 unsolved homicide of Sue Capistrant. Analyze the timeline and data.</description>
+      <pubDate>Thu, 26 Mar 2026 11:31:19 +0000</pubDate>
+      <guid isPermaLink="true">https://news.crimedocket.com/articles/forensics-break-1987-roseville-unsolved-homicide-case.html</guid>
+      <category>CASE ANALYSIS</category>
+    </item>
+    <item>
+      <title>Blunt Force Trauma Misclassified at Compromised Ohio Scene</title>
+      <link>https://news.crimedocket.com/articles/blunt-force-trauma-misclassified-at-compromised-ohio-scene.html</link>
+      <description>Analyze the forensic failures in the unsolved 2017 homicide of Amy Jo Nelson in New Straitsville, Ohio, including crime scene contamination and autopsy data.</description>
+      <pubDate>Thu, 26 Mar 2026 11:23:57 +0000</pubDate>
+      <guid isPermaLink="true">https://news.crimedocket.com/articles/blunt-force-trauma-misclassified-at-compromised-ohio-scene.html</guid>
+      <category>CASE ANALYSIS</category>
+    </item>
     <item>
       <title>15 Gunshots, Zero Witnesses in Kendric Price Homicide Case</title>
       <link>https://news.crimedocket.com/articles/15-gunshots-zero-witnesses-in-kendric-price-homicide-case.html</link>
@@ -110,62 +166,6 @@
       <pubDate>Tue, 24 Mar 2026 12:09:53 +0000</pubDate>
       <guid isPermaLink="true">https://news.crimedocket.com/articles/dna-solves-1994-infant-cold-case-monterey-county-mother-sentenced.html</guid>
       <category>COURT WATCH</category>
-    </item>
-    <item>
-      <title>DNA Match Solves 33-Year-Old Hillsboro Cold Case Murder</title>
-      <link>https://news.crimedocket.com/articles/dna-match-solves-33-year-old-hillsboro-cold-case-murder.html</link>
-      <description>The Washington County Cold Case Unit utilized modern DNA extraction on preserved clothing to solve the 1992 Hillsboro cold case murder of Elizabeth Wasson.</description>
-      <pubDate>Tue, 24 Mar 2026 12:09:11 +0000</pubDate>
-      <guid isPermaLink="true">https://news.crimedocket.com/articles/dna-match-solves-33-year-old-hillsboro-cold-case-murder.html</guid>
-      <category>NEWS BRIEF</category>
-    </item>
-    <item>
-      <title>Virginia DNA Hit Secures Conviction in Far Rockaway Murder</title>
-      <link>https://news.crimedocket.com/articles/virginia-dna-hit-secures-conviction-in-far-rockaway-murder.html</link>
-      <description>A cross-state CODIS DNA match provides the definitive forensic evidence required to convict a Virginia man in a Far Rockaway teen's cold case murder in Queens.</description>
-      <pubDate>Tue, 24 Mar 2026 12:08:38 +0000</pubDate>
-      <guid isPermaLink="true">https://news.crimedocket.com/articles/virginia-dna-hit-secures-conviction-in-far-rockaway-murder.html</guid>
-      <category>NEWS BRIEF</category>
-    </item>
-    <item>
-      <title>ATF Ballistics Close 2022 Gonzales County RV Park Homicide</title>
-      <link>https://news.crimedocket.com/articles/atf-ballistics-close-2022-gonzales-county-rv-park-homicide.html</link>
-      <description>Forensic ballistics by the ATF resolved the 2022 Gonzales County RV park homicide of Brandon O'Quinn Rasberry after a 10-year-old confessed to the shooting.</description>
-      <pubDate>Tue, 24 Mar 2026 08:18:32 +0000</pubDate>
-      <guid isPermaLink="true">https://news.crimedocket.com/articles/atf-ballistics-close-2022-gonzales-county-rv-park-homicide.html</guid>
-      <category>CASE ANALYSIS</category>
-    </item>
-    <item>
-      <title>Forensic Journalism Unlocks Civil Rights Cold Cases</title>
-      <link>https://news.crimedocket.com/articles/forensic-journalism-unlocks-civil-rights-cold-cases.html</link>
-      <description>Forensic document analysis of sealed state records helped reopen four major Civil Rights cold cases, leading to delayed convictions for Ku Klux Klan murders.</description>
-      <pubDate>Tue, 24 Mar 2026 08:11:54 +0000</pubDate>
-      <guid isPermaLink="true">https://news.crimedocket.com/articles/forensic-journalism-unlocks-civil-rights-cold-cases.html</guid>
-      <category>NEWS BRIEF</category>
-    </item>
-    <item>
-      <title>DNA and Fingerprints Clear 1983 Highway 1 Cold Case</title>
-      <link>https://news.crimedocket.com/articles/dna-and-fingerprints-clear-1983-highway-1-cold-case.html</link>
-      <description>San Luis Obispo County Sheriff's Department uses forensic genetic genealogy and latent print analysis to exceptionally clear a 1983 Highway 1 cold case.</description>
-      <pubDate>Tue, 24 Mar 2026 08:06:42 +0000</pubDate>
-      <guid isPermaLink="true">https://news.crimedocket.com/articles/dna-and-fingerprints-clear-1983-highway-1-cold-case.html</guid>
-      <category>CASE ANALYSIS</category>
-    </item>
-    <item>
-      <title>Cigarette DNA Solves 1973 Linda O'Keefe Cold Case</title>
-      <link>https://news.crimedocket.com/articles/cigarette-dna-solves-1973-linda-okeefe-cold-case.html</link>
-      <description>Forensic investigators used investigative genetic genealogy and a discarded cigarette to solve the 1973 Linda O'Keefe cold case in Newport Beach, California.</description>
-      <pubDate>Tue, 24 Mar 2026 02:54:43 +0000</pubDate>
-      <guid isPermaLink="true">https://news.crimedocket.com/articles/cigarette-dna-solves-1973-linda-okeefe-cold-case.html</guid>
-      <category>FORENSIC EXPLAINER</category>
-    </item>
-    <item>
-      <title>South Wales Police Seek DNA Evidence in 1979 Jack Armstrong Murder</title>
-      <link>https://news.crimedocket.com/articles/south-wales-police-seek-dna-evidence-in-1979-jack-armstrong-murder.html</link>
-      <description>South Wales Police initiate a forensic DNA review of the 1979 Jack Armstrong cold case, utilizing preserved physical evidence to identify his killer.</description>
-      <pubDate>Tue, 24 Mar 2026 02:53:52 +0000</pubDate>
-      <guid isPermaLink="true">https://news.crimedocket.com/articles/south-wales-police-seek-dna-evidence-in-1979-jack-armstrong-murder.html</guid>
-      <category>NEWS BRIEF</category>
     </item>
   </channel>
 </rss>

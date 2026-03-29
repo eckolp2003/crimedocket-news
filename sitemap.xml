@@ -2,9 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://news.crimedocket.com/</loc>
-    <lastmod>2026-03-25</lastmod>
+    <lastmod>2026-03-28</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://news.crimedocket.com/articles/holdback-evidence-corroborates-tip-in-brian-shaffer-disappearance.html</loc>
+    <lastmod>2026-03-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://news.crimedocket.com/articles/ballistics-link-firearm-to-tommy-ballard-bardstown-homicide.html</loc>
+    <lastmod>2026-03-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://news.crimedocket.com/articles/evidence-review-toledo-unsolved-homicide-of-alfonzo-carpenter.html</loc>
+    <lastmod>2026-03-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://news.crimedocket.com/articles/archival-vhs-footage-solves-1990-william-arnold-newton-cold-case.html</loc>
+    <lastmod>2026-03-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://news.crimedocket.com/articles/forensic-review-1993-cleveland-county-unsolved-rest-stop-murder.html</loc>
+    <lastmod>2026-03-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://news.crimedocket.com/articles/forensics-break-1987-roseville-unsolved-homicide-case.html</loc>
+    <lastmod>2026-03-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://news.crimedocket.com/articles/blunt-force-trauma-misclassified-at-compromised-ohio-scene.html</loc>
+    <lastmod>2026-03-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://news.crimedocket.com/articles/15-gunshots-zero-witnesses-in-kendric-price-homicide-case.html</loc>
